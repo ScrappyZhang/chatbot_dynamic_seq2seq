@@ -1,7 +1,9 @@
 # dynamic-seq2seq
 ### 基于中文语料和dynamic_rnn的seq2seq模型
 
-对https://github.com/yanwii/dynamic-seq2seq的bug修改和python3支持
+对https://github.com/yanwii/dynamic-seq2seq           
+
+的bug修改和python3支持
 
 
 ### Requirements
